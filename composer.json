@@ -1,0 +1,39 @@
+{
+    "name": "yemeni-open-source/laravel-helpers",
+    "description": "A wonderful command line tool for managing your helpers.",
+    "keywords": [
+        "yemeni-open-source",
+        "laravel-helpers",
+        "helpers"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YemeniOpenSource\\LaravelHelpers\\": "src/",
+            "Database\\Seeders\\": "database/seeders/",
+            "YemeniOpenSource\\LaravelHelpers\\Database\\Factories\\": "database/factories"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "YemeniOpenSource\\LaravelHelpers\\Tests\\": "tests"
+        }
+    },
+    "authors": [
+        {
+            "name": "muathye",
+            "email": "muath.ye@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "YemeniOpenSource\\LaravelHelpers\\HelpersServiceProvider"
+            ]
+        }
+    },
+    "scripts": {
+        "helpers-link": "@php artisan helpers:link --ansi"
+    }
+}
