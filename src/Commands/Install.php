@@ -54,10 +54,18 @@ class Install extends Command
     {
         return <<<EOT
 <?php
-/**
- *  Put your helpers function here.
- */
+/*
+|--------------------------------------------------------------------------
+| Application Helpers
+|--------------------------------------------------------------------------
+|
+| This the place of your helpers.php
+| Add your helpers functions here, so you can call any function in every
+| where of your project.
+|
+*/
 use Illuminate\Support\Carbon;
+
 if (! function_exists('carbon')) {
     function carbon(\$parseString = null, \$tz = null)
     {
