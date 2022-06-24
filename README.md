@@ -2,11 +2,10 @@
 
 ![Packagist Downloads](https://img.shields.io/packagist/dt/Yemeni-Open-Source/laravel-helpers?color=blue&label=Downloads&logo=packagist&logoColor=white)
 ![Packagist Version](https://img.shields.io/packagist/v/Yemeni-Open-Source/laravel-helpers?color=green&label=Version&logo=laravel&logoColor=white)
-![GitHub](https://img.shields.io/github/license/Yemeni-Open-Source/laravel-helpers?logo=Open%20Source%20Initiative&label=License&logoColor=white&color=blueviolet)
-
+[![GitHub license](https://img.shields.io/github/license/Yemeni-Open-Source/laravel-helpers)](https://github.com/Yemeni-Open-Source/laravel-helpers/blob/main/LICENSE)
 </div>
 
-# Laravel Wallet
+# Laravel Helpers
 
 A wonderful command line tool for managing your helpers.
 
