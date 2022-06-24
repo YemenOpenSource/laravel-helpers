@@ -4,6 +4,7 @@ namespace YemeniOpenSource\LaravelHelpers;
 
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\ServiceProvider;
+use YemeniOpenSource\LaravelHelpers\Commands\Install;
 
 class HelpersServiceProvider extends ServiceProvider
 {

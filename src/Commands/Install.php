@@ -1,6 +1,6 @@
 <?php
 
-namespace YemeniOpenSource\LaravelHelpers;
+namespace YemeniOpenSource\LaravelHelpers\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;
