@@ -31,10 +31,6 @@ You can create the ```helpers.php``` manually or using this command line to crea
 
 > ```php artisan helpers:link```
 
-## Credits
-
-[Digital money vector created by fullvector - www.freepik.com](https://www.freepik.com/vectors/digital-money)
-
 ## License
 
 The MIT License (MIT). Please see [MIT license](LICENSE) File for more information.
