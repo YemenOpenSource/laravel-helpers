@@ -17,7 +17,7 @@ This package is tested with Laravel v8 and it should work on Laravel v7 or v6 or
 |-|-|
 |php| ^7.3&#124;^8.0|
 |Composer| ^2.3|
-|Laravel| ^8.0|
+|Laravel| ^6.0|
 
 ## Installation
 
