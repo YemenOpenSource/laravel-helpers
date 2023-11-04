@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
+
 <div style="text-align: center;">
 
 ![Packagist Downloads](https://img.shields.io/packagist/dt/Yemeni-Open-Source/laravel-helpers?color=blue&label=Downloads&logo=packagist&logoColor=white)
